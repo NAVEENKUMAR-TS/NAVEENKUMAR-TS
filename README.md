@@ -63,8 +63,10 @@
   <img src="https://skillicons.dev/icons?i=mysql" width="52" title="MySQL"/> &nbsp;
   <img src="https://skillicons.dev/icons?i=linux" width="52" title="Linux"/> &nbsp;
 
-  <img src="https://img.icons8.com/?size=512&id=114143&format=png" 
-       width="52" title="AntiGravity"/>
+  <img src="https://raw.githubusercontent.com/NAVEENKUMAR-TS/NAVEENKUMAR-TS/main/antigravity.png"
+     width="52"
+     title="AntiGravity"/>
+
 </p>
 
 
