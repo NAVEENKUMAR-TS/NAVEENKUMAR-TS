@@ -12,13 +12,13 @@
 
 ---
 
-## 👨‍💻 About Me  
+##  About Me  
 
-- 🔭 Working on **Cybersecurity Smart Controller Project**  
-- 🌱 Learning **Cloud Computing + Advanced Security**  
-- 💬 Ask me about **Java, Web Development, Cybersecurity Basics**  
-- 👯 Open to **Hackathon Collaborations & Real-World Projects**  
-- 🤝 Looking for help with **Secure Full Stack Deployment**  
+-  Working on **Cybersecurity Smart Controller Project**  
+-  Learning **Cloud Computing + Advanced Security**  
+-  Ask me about **Java, Web Development, Cybersecurity Basics**  
+-  Open to **Hackathon Collaborations & Real-World Projects**  
+-  Looking for help with **Secure Full Stack Deployment**  
 
 
 
@@ -26,7 +26,7 @@
 
 ---
 
-## 🚀 Completed Projects  
+##  Completed Projects  
 
 -  Smart Money Copilot – AI-powered Finance Assistant  
 -  Cybersecurity Smart Controller – Secure IoT Automation System  
@@ -55,7 +55,7 @@
 </p>
 
 
-### 🧰 Tools & Platforms  
+###  Tools & Platforms  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git" width="52" title="Git"/> &nbsp;
   <img src="https://skillicons.dev/icons?i=github" width="52" title="GitHub"/> &nbsp;
@@ -72,15 +72,15 @@
 
 ---
 
-## 📊 My GitHub Overview  
+##  My GitHub Overview  
 
-- 🔥 Active contributor in Cybersecurity & Development projects  
-- 📌 GitHub shows my contribution heatmap and activity graph below 👇  
-- 🚀 Focused on building real-world and hackathon-level solutions  
+-  Active contributor in Cybersecurity & Development projects  
+-  GitHub shows my contribution heatmap and activity graph below 👇  
+-  Focused on building real-world and hackathon-level solutions  
 
 ---
 
-## 🌍 Connect With Me  
+##  Connect With Me  
 
 <p align="left">
   <a href="https://github.com/NAVEENKUMAR-TS">
